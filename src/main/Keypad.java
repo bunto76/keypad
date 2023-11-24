@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  * Keypad challenge. Adjacent keys are easy to dial.
- * @author ciaran.bunting@oracle.com
+ * @author ciaranbunting@gmail.com
  */
 public class Keypad {
 
